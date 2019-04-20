@@ -1,0 +1,18 @@
+{
+  "name": "@kkandasamy/acronym",
+  "version": "1.0.0",
+  "description": "Transform sentences to acronyms.",
+  "repository": "gitkarthik/acronym",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "acronym",
+    "npm",
+    "package",
+    "kkandasamy"
+  ],
+  "author": "karthik Kandasamy <karthik.kandasamy@gmail.com>",
+  "license": "ISC"
+}
