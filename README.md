@@ -1,1 +1,1 @@
-# acryonym
+# acronym
